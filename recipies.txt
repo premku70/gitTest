@@ -6,4 +6,8 @@ Making Omlet
 4.salt
 5.chillies
 6.onion
+<<<<<<< Updated upstream
 7.pepper
+=======
+7.sddfsfsdfsdafsadf
+>>>>>>> Stashed changes

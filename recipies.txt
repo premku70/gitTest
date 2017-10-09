@@ -6,3 +6,4 @@ Making Omlet
 4.salt
 5.chillies
 6.onion
+7.pepper

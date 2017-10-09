@@ -5,5 +5,4 @@ Making Omlet
 3.pan
 4.salt
 5.chillies
-6.onion
-7.pepper
+6.asdasdasdasd
